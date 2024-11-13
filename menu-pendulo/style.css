@@ -1,4 +1,4 @@
-body {
+ body {
 	background-color: #F4F2EF;
 }
 
@@ -561,6 +561,10 @@ footer {
 
 .orange-text {
 	color: #e0502e;
+}
+
+.green-text {
+	color: #859F3D;
 }
 
 .text-center {
