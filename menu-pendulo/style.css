@@ -31,6 +31,12 @@
 	margin: 25px 0;
 }
 
+.alerg_icon{
+	width: 20px;
+	height: auto;
+	margin: 1px;
+}
+
 @media all and (min-width: 0px) and (max-width: 577px) {
 	.buttons_margin {
 		margin: 15px 0;
